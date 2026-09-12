@@ -8,6 +8,8 @@ This document summarizes the comprehensive academic research paper and associate
 
 | Deliverable | Location / Artifact Link | Description |
 |:---|:---|:---|
+| **GitHub Repository** | [https://github.com/Anuj-9009/butterfly-robustness](https://github.com/Anuj-9009/butterfly-robustness) | Official public repository containing full codebase, figures, tech stack, and documentation. |
+| **Champion Model Weights (v1.0.0)** | [v1.0.0 Release](https://github.com/Anuj-9009/butterfly-robustness/releases/tag/v1.0.0) | Official release asset containing `model.pt` (100% Worst-Group and Overall Accuracy). |
 | **Publication Research Paper** | [`research_paper_100_species_butterfly_robustness.md`](file:///Users/anuj9009/.gemini/antigravity-ide/brain/783b04ff-cd15-4725-99b5-4c922f840d61/research_paper_100_species_butterfly_robustness.md) | Exhaustive, publication-grade academic paper with theoretical proofs, 6 wing archetypes, empirical tables, 4 novel scientific discoveries, hardware profiling, and full code listings. |
 | **Standalone BibTeX Bibliography** | [`references.bib`](file:///Users/anuj9009/.gemini/antigravity-ide/scratch/butterfly_robustness/references.bib) | 18 full BibTeX entries formatted for direct Overleaf/LaTeX integration (ICLR, NeurIPS, CVPR, ECCV, Nature Machine Intelligence). |
 | **Champion Model Checkpoint** | [`outputs/model.pt`](file:///Users/anuj9009/.gemini/antigravity-ide/scratch/butterfly_robustness/outputs/model.pt) | Validated DFR champion model weights achieving 100.0% Worst-Group Accuracy and 100.0% Overall Accuracy across 400 groups. |
