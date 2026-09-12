@@ -1,5 +1,8 @@
 # Walkthrough: Industry-Standard Research Paper, Full Code Listings, Technology Inventory & Academic Citations
 
+**Author:** Anuj Kumar ([@Anuj-9009](https://github.com/Anuj-9009))  
+**Repository:** [https://github.com/Anuj-9009/butterfly-robustness](https://github.com/Anuj-9009/butterfly-robustness)  
+
 This document summarizes the comprehensive academic research paper and associated assets delivered in compliance with top-tier conference and journal publication standards (IEEE TPAMI / NeurIPS / ICML).
 
 ---
