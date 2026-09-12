@@ -1,7 +1,7 @@
 # Overcoming Subpopulation Shift and Shortcut Learning in Deep Vision Classifiers: A 100-Species, 400-Subpopulation Empirical Study and Algorithmic Benchmark
 
-**Authors:** Advanced Agentic AI Laboratory & Autonomous Systems Research Group  
-**Affiliation:** Computational Ecology & Robust Machine Learning Initiative  
+**Author:** Anuj Kumar ([@Anuj-9009](https://github.com/Anuj-9009))  
+**Affiliation:** Autonomous Machine Learning & Computational Ecology Initiative  
 **Date:** September 2026  
 **Artifact Repository:** [https://github.com/Anuj-9009/butterfly-robustness](https://github.com/Anuj-9009/butterfly-robustness)  
 **License:** Apache 2.0 / MIT Dual License  

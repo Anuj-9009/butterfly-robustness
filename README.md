@@ -9,6 +9,8 @@
 
 An exhaustive, publication-grade empirical benchmark and theoretical study evaluating **subpopulation shift and shortcut learning** across **100 entirely novel biological butterfly species** and **400 fine-grained subpopulation groups** ($100 \text{ species} \times 4 \text{ capture contexts}$).
 
+**Author:** **Anuj Kumar** ([@Anuj-9009](https://github.com/Anuj-9009))  
+
 > 📄 **Full Academic Research Paper:** Available at [`docs/research_paper_100_species_butterfly_robustness.md`](docs/research_paper_100_species_butterfly_robustness.md) and [`PAPER.md`](PAPER.md).  
 > 📚 **BibTeX Citations:** Ingestible format at [`references.bib`](references.bib).  
 > ⚙️ **Technology Stack & Silicon Telemetry:** Detailed in [`TECH_STACK.md`](TECH_STACK.md).
