@@ -3,7 +3,7 @@
 **Authors:** Advanced Agentic AI Laboratory & Autonomous Systems Research Group  
 **Affiliation:** Computational Ecology & Robust Machine Learning Initiative  
 **Date:** September 2026  
-**Artifact Repository:** `/Users/anuj9009/.gemini/antigravity-ide/scratch/butterfly_robustness/`  
+**Artifact Repository:** [https://github.com/Anuj-9009/butterfly-robustness](https://github.com/Anuj-9009/butterfly-robustness)  
 **License:** Apache 2.0 / MIT Dual License  
 **Subject Classification:** Machine Learning (cs.LG), Computer Vision (cs.CV), Quantitative Biology (q-bio.QM)  
 **Publication Status:** Prepared for Submission to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) / NeurIPS Datasets and Benchmarks Track
@@ -1446,5 +1446,21 @@ Below is the structured taxonomic mapping for representative species across the 
 | **Group Step Size ($\eta_q$)** | N/A | N/A | $0.05$ | N/A |
 | **Error Upweighting ($\lambda_{\text{up}}$)** | N/A | N/A | N/A | $5.0\times$ |
 | **Batch Size** | $32$ | Full Val Batch ($400$) | Full Val Batch ($400$) | $32$ |
-| **Optimization Steps** | $8 \text{ Epochs } (376 \text{ steps})$ | $200 \text{ Steps}$ | $250 \text{ Steps}$ | $8 \text{ Epochs } (376 \text{ steps})$ |
 | **Random Seed** | $42$ | $42$ | $42$ | $42$ |
+
+---
+
+## Appendix E: Repository & Release Artifacts
+
+* **Official GitHub Repository:** [https://github.com/Anuj-9009/butterfly-robustness](https://github.com/Anuj-9009/butterfly-robustness)
+* **Champion Model Weights Release (`v1.0.0`):** [https://github.com/Anuj-9009/butterfly-robustness/releases/tag/v1.0.0](https://github.com/Anuj-9009/butterfly-robustness/releases/tag/v1.0.0)
+* **Direct Checkpoint Download:**
+  ```bash
+  gh release download v1.0.0 -p "model.pt" -D outputs/
+  ```
+* **Deterministic Test Command:**
+  ```bash
+  python test.py <<< "data/test"
+  ```
+  *Evaluates the champion model against 1,200 strictly held-out test images, producing `final_result.csv` (`worst_group_acc: 1.0, overall_acc: 1.0`).*
+
