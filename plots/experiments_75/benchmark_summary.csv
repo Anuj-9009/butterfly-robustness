@@ -1,0 +1,6 @@
+method,worst_group_acc,overall_acc,collapsed_groups,duration_sec
+Standard ERM (Baseline),0.0,0.9066666666666666,24,341.9802031517029
+Deep Feature Reweighting (DFR),1.0,1.0,0,9.240003108978271
+Group DRO (Minimax),1.0,1.0,0,52.71800398826599
+Shortcut Augmentation,0.0,0.73,76,50.30805516242981
+Just Train Twice (JTT),1.0,1.0,0,17.582292079925537

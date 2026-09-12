@@ -1,0 +1,31 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# Heavy Intermediate Model Weights (Archived / Duplicate Checkpoints)
+archive/**/*.pt
+plots/**/*.pt
+outputs/*.pt
+
+# Generated Large Image Dataset (Regenerate in 3s via `python generate_data.py`)
+data/train/
+data/val/**/*.png
+data/test/**/*.png
+archive/data_2split/
+
+# Retain group metadata CSVs
+!data/val/groups.csv
+!data/test/groups.csv

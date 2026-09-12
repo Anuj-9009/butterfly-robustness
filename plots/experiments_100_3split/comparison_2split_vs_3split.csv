@@ -1,0 +1,6 @@
+method,worst_group_acc_2split,overall_acc_2split,collapsed_groups_2split,duration_sec_2split,worst_group_acc_3split,overall_acc_3split,collapsed_groups_3split,duration_sec_3split
+Standard ERM (Baseline),0.0,0.93875,20,653.4755628108978,0.0,0.9533333333333334,16,411.9107038974762
+Deep Feature Reweighting (DFR),1.0,1.0,0,11.58119511604309,1.0,1.0,0,3.5811872482299805
+Group DRO (Minimax),1.0,1.0,0,65.04513883590698,1.0,1.0,0,20.549244165420532
+Shortcut Augmentation,0.0,0.58875,152,61.90701174736023,0.0,0.5933333333333334,144,61.91
+Just Train Twice (JTT),1.0,1.0,0,23.58187699317932,1.0,1.0,0,23.58
