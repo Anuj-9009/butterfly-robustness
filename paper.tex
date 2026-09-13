@@ -12,6 +12,7 @@
 \usepackage{cite}
 \usepackage{subcaption}
 \usepackage{multirow}
+\usepackage{balance}
 
 \hypersetup{
     colorlinks=true,
@@ -250,6 +251,7 @@ Across 400 groups, Group DRO took $20.55\text{ s}$ and introduced step-wise trai
 
 Experiments were conducted on an Apple Silicon M4 SoC (10-core CPU, 10-core GPU, 16-core Neural Engine, 16 GB Unified LPDDR5X SDRAM, 120 GB/s bus). Monitored via macOS \texttt{pmset -g therm}, the system remained at Level 0 (Nominal / zero throttling) throughout all experiments. DFR required updating only 204,900 linear parameters with zero deep convolutional backpropagation, running $115\times$ faster than full ERM training.
 
+\balance
 \section{Conclusion}
 This study provides the first large-scale empirical analysis of subpopulation shift across 100 species and 400 groups. We demonstrated the severity of ERM subpopulation collapse, mathematically and empirically validated Deep Feature Reweighting under a strict 3-split protocol, and refuted several key assumptions in prior literature. All code, datasets, and models are fully open-sourced.
 
