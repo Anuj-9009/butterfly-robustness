@@ -11,6 +11,7 @@ An exhaustive, publication-grade empirical benchmark and theoretical study evalu
 
 **Author:** **Anuj Kumar** ([@Anuj-9009](https://github.com/Anuj-9009))  
 
+> 📑 **Download Compiled PDF:** [`Overcoming_Subpopulation_Shift_Butterfly_Robustness_Anuj_Kumar.pdf`](https://github.com/Anuj-9009/butterfly-robustness/releases/download/v1.0.0/Overcoming_Subpopulation_Shift_Butterfly_Robustness_Anuj_Kumar.pdf)  
 > 📄 **Full Academic Research Paper:** Available at [`docs/research_paper_100_species_butterfly_robustness.md`](docs/research_paper_100_species_butterfly_robustness.md) and [`PAPER.md`](PAPER.md).  
 > 📚 **BibTeX Citations:** Ingestible format at [`references.bib`](references.bib).  
 > ⚙️ **Technology Stack & Silicon Telemetry:** Detailed in [`TECH_STACK.md`](TECH_STACK.md).
